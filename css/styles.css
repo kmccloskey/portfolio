@@ -1,0 +1,229 @@
+.header_img {
+	background-image: url(../images/desk.jpeg);
+	overflow: hidden;
+	background-size: cover;
+	text-align: center;
+}
+
+.second_img {
+	background-image: url(../images/two.jpeg);
+	overflow: hidden;
+	background-size: cover;
+	text-align: center;
+}
+
+.third_img {
+	background-image: url(../images/three.jpeg);
+	overflow: hidden;
+	background-size: cover;
+	text-align: center;
+}
+
+.fourth_img {
+	background-image: url(../images/four.jpeg);
+	overflow: hidden;
+	background-size: cover;
+	text-align: center;	
+}
+
+.mumblr {
+	background-image: url(../images/mumblr.png);
+	background-size: contain;
+	overflow: none;
+	text-align: center;
+	height: 20vw;
+	background-repeat: no-repeat;
+}
+
+.birderz {
+	background-image: url(../images/birderz.png);
+	background-size: contain;
+	overflow: none;
+	text-align: center;
+	height: 20vw;
+	background-repeat: no-repeat;
+}
+
+.firstport {
+	background-image: url(../images/firstport.png);
+	background-size: contain;
+	overflow: none;
+	text-align: center;
+	height: 20vw;
+	background-repeat: no-repeat;
+}
+
+.cookies {
+	background-image: url(../images/cookies.png);
+	background-size: contain;
+	overflow: none;
+	text-align: center;
+	height: 20vw;
+	background-repeat: no-repeat;
+}
+
+.cause {
+	background-image: url(../images/cause.png);
+	background-size: contain;
+	overflow: none;
+	text-align: center;
+	height: 20vw;
+	background-repeat: no-repeat;
+}
+
+.github {
+	background-image: url(../images/github.png);
+	background-size: contain;
+	overflow: none;
+	text-align: center;
+	height: 20vw;
+	background-repeat: no-repeat;
+}
+
+.noise {
+	background-image: url(../images/noise.png);
+	background-size: contain;
+	overflow: none;
+	text-align: center;
+	height: 20vw;
+	background-repeat: no-repeat;
+}
+
+.project_image {
+	margin-top: 10%;
+}
+
+.project_text {
+	border-bottom: 1px solid black;
+}
+
+.projects {
+	margin-top: 3%;
+	margin-bottom: 3%;
+}
+
+.third_img h1 {
+	font-size: 12vw;
+	margin-top: 2vw;
+	text-shadow: 2px 2px black;
+	font-family: 'Amatic SC', cursive;
+	color: white;
+}
+
+.fourth_img h1 {
+	font-size: 12vw;
+	margin-top: 2vw;
+	text-shadow: 2px 2px black;
+	font-family: 'Amatic SC', cursive;
+	color: white;
+	padding-bottom: 1%;
+}
+
+.second_img h1 {
+	font-size: 12vw;
+	margin-top: 2vw;
+	text-shadow: 2px 2px black;
+	font-family: 'Amatic SC', cursive;
+	color: white;
+}
+
+.email {
+	text-align: center;
+}
+
+.email h1 {
+	margin-top: 0px;
+}
+
+.email a {
+	text-decoration: none;
+	color: black;
+	font-size: 6vw;
+	padding-bottom: 5%;
+}
+
+.email a:hover {
+	text-decoration: underline;
+}
+
+.header_name {
+	font-family: 'Amatic SC', cursive;
+	color: white;
+}
+
+.header_name h1 {
+	font-size: 12vw;
+	margin-top: 2vw;
+	text-shadow: 2px 2px black;
+}
+
+.buttons li {
+	list-style-type: none;
+	display: inline-block;
+	font-family: 'Amatic SC', cursive;
+	font-size: 4vw;
+	font-weight: 700;
+	border: white solid 3px;
+	padding: 0px 8vw 0px 8vw;
+}
+
+.buttons li:hover {
+	text-decoration: underline;
+}
+
+.buttons a {
+	text-decoration: none;
+	color: white;
+}
+
+.buttons .contact_button {
+	color: #403F45;
+}
+
+.buttons {
+	text-align: center;
+}
+
+div div ul .contact_button1 {
+	background-color: #FDEC00;
+	border: solid 3px #403F45;
+}
+
+.contact_button {
+	color: #403F45;
+}
+
+.buttons .contact_button {
+	color: #403F45;
+}
+
+.history {
+	margin-top: 3%;
+	margin-bottom: 3%;
+}
+
+.history p {
+	font-size: 1.55vw;
+}
+
+.history img {
+	width: 28vw;
+	border-radius: 25px;
+}
+
+.resume {
+	margin-top: 3%;
+	margin-bottom: 3%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
