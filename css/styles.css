@@ -1,3 +1,4 @@
+
 .header_img {
 	background-image: url(../images/desk.jpeg);
 	overflow: hidden;
@@ -31,7 +32,7 @@
 	background-size: contain;
 	overflow: none;
 	text-align: center;
-	height: 20vw;
+	height: 70%;
 	background-repeat: no-repeat;
 }
 
@@ -40,44 +41,17 @@
 	background-size: contain;
 	overflow: none;
 	text-align: center;
-	height: 20vw;
+	height: 70%;
 	background-repeat: no-repeat;
 }
 
-.firstport {
-	background-image: url(../images/firstport.png);
+.wizard {
+	background-image: url(../images/Wizards.png);
 	background-size: contain;
 	overflow: none;
 	text-align: center;
-	height: 20vw;
-	background-repeat: no-repeat;
-}
-
-.cookies {
-	background-image: url(../images/cookies.png);
-	background-size: contain;
-	overflow: none;
-	text-align: center;
-	height: 20vw;
-	background-repeat: no-repeat;
-}
-
-.cause {
-	background-image: url(../images/cause.png);
-	background-size: contain;
-	overflow: none;
-	text-align: center;
-	height: 20vw;
-	background-repeat: no-repeat;
-}
-
-.github {
-	background-image: url(../images/github.png);
-	background-size: contain;
-	overflow: none;
-	text-align: center;
-	height: 20vw;
-	background-repeat: no-repeat;
+	height: 70%;
+	background-repeat: no-repeat;	
 }
 
 .noise {
@@ -85,7 +59,7 @@
 	background-size: contain;
 	overflow: none;
 	text-align: center;
-	height: 20vw;
+	height: 70%;
 	background-repeat: no-repeat;
 }
 
@@ -95,6 +69,7 @@
 
 .project_text {
 	border-bottom: 1px solid black;
+	/*margin-top: -28%;*/
 }
 
 .projects {
@@ -129,21 +104,20 @@
 
 .email {
 	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 
-.email h1 {
-	margin-top: 0px;
+.githubicon {
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 
-.email a {
-	text-decoration: none;
-	color: black;
-	font-size: 6vw;
-	padding-bottom: 5%;
-}
-
-.email a:hover {
-	text-decoration: underline;
+.linkedin {
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 
 .header_name {
@@ -216,14 +190,47 @@ div div ul .contact_button1 {
 	margin-bottom: 3%;
 }
 
+.project_block{
+	height: 400px;
+}
 
+.email img {
+	width: 25%;
+	-webkit-filter: grayscale(100%); /* Chrome, Safari, Opera */
+	filter: grayscale(100%);
+}
 
+.linkedin img {
+	width: 20%;
+	height: 20%;
+	-webkit-filter: grayscale(100%); /* Chrome, Safari, Opera */
+	filter: grayscale(100%);
+	float: right;
+}
 
+.githubicon img {
+	width: 20%;
+	height: 20%;
+	-webkit-filter: grayscale(100%); /* Chrome, Safari, Opera */
+	filter: grayscale(100%);
+	float: left;
+}
 
+.opening {
+	font-family: 'Source Sans Pro', sans-serif;
+}
 
+.resume p {
+	margin-top: 0;
+	margin-bottom: 0;
+}
 
+.resume h4 {
+	margin-top: 0;
+	margin-bottom: 3px;
+}
 
-
-
-
-
+.resume p strong em {
+	margin-top: 0;
+	margin-bottom: 1px;
+}

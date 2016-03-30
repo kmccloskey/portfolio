@@ -11,4 +11,11 @@ $(document).ready( function() {
             scrollTop: $('.fourth_img').offset().top 
         }, 600);
     });
+    $("*").each( function () {
+    var $this = $(this);
+    if ((parseInt($this.css("fontSize")) < 22) || (parseInt($this.css("fontSize")) < 3vw)) {
+        $this.css({ "font-size": "22px" });   
+    }
+});
+});
 });
